@@ -1,0 +1,12 @@
+# Site settings
+title: 望终南阁
+email: twksos@qq.com
+description: > # 
+  Blog of a Coder & Gamer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: twksos
+github_username:  twksos
+
+# Build settings
+markdown: kramdown
