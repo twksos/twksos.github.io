@@ -1,6 +1,5 @@
 ---
 layout: default
-comment: true
 ---
 <div class="post">
 
@@ -12,7 +11,7 @@ comment: true
   <article class="post-content">
     {{ content }}
   </article>
-  {% if page.comments %}
+  <footer class="post-footer">
   <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
@@ -27,6 +26,5 @@ comment: true
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-  {% endif %}
-
+  </footer>
 </div>
