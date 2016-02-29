@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About Me & the Blog
+title: 居然居士 望终南
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+twksos的博客。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+热爱技术。
+非常宅。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+请关注我的Github: https://github.com/twksos
