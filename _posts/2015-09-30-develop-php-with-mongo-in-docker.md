@@ -14,12 +14,6 @@ tags:
   - docker
 ---
 #Develop and deploy PHP in Docker(还在写)
-{% comment %}
-### TL;DR
-
-apache php mysql mongo 
-nginx php mysql mongo
-{% endcomment %}
 
 ### 前言
 
