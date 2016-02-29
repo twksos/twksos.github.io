@@ -5,6 +5,10 @@ layout: page
 dsq_thread_id:
   - 1487928479
 ---
-天朝十三朝废都的居然居士望终南的博客，我会经常更新它的，祈祷这次是真的&#8230;
+
+twksos的博客。
+
+热爱技术。
+非常宅。
 
 请关注我的Github: https://github.com/twksos
